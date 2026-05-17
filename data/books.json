@@ -1,0 +1,140 @@
+{
+  "esoterico": [
+    {
+      "title": "The Rosslyn Hoax?",
+      "author": "Robert L. D. Cooper",
+      "year": 2006,
+      "note": "Contrapeso skeptical — biblioteca masónica de Escocia"
+    },
+    {
+      "title": "Holy Blood, Holy Grail",
+      "author": "Baigent, Leigh, Lincoln",
+      "year": 1982,
+      "note": "El clásico esoterista que inspiró el Código Da Vinci"
+    },
+    {
+      "title": "The Templars and the Grail",
+      "author": "Karen Ralls",
+      "year": 2003,
+      "note": "Ralls trabajó como curadora en Rosslyn — académico pero accesible"
+    },
+    {
+      "title": "Edinburgh: A History of the City",
+      "author": "Michael Fry",
+      "year": 2009,
+      "note": "Historia general impecable, con capas ocultas"
+    },
+    {
+      "title": "The Hellfire Clubs: Sex, Satanism and Secret Societies",
+      "author": "Evelyn Lord",
+      "year": 2010,
+      "note": "Club Hellfire Escocés — historia oculta georgiana"
+    },
+    {
+      "title": "The Sworn Book of Honorius",
+      "author": "Liber Iuratus Honorii",
+      "year": "s. XIII (trad. moderna)",
+      "note": "Texto hermético medieval clave"
+    }
+  ],
+  "ciencia": [
+    {
+      "title": "The Edinburgh Enlightenment",
+      "author": "Alexander Broadie",
+      "year": 2001,
+      "note": "Por qué Edimburgo fue la 'Atenas del Norte'"
+    },
+    {
+      "title": "Hume: An Intellectual Biography",
+      "author": "James A. Harris",
+      "year": 2015,
+      "note": "Hume vivía en New Town — referencia obligada"
+    },
+    {
+      "title": "Machines Who Think",
+      "author": "Pamela McCorduck",
+      "year": 1979,
+      "note": "Historia de la IA — Donald Michie y la escuela de Edimburgo aparecen"
+    },
+    {
+      "title": "AI: A Modern Approach",
+      "author": "Russell & Norvig",
+      "year": "varias eds.",
+      "note": "Mención por contexto — la biblia técnica del campo"
+    }
+  ],
+  "whisky": [
+    {
+      "title": "Whisky: The Manual",
+      "author": "Dave Broom",
+      "year": 2014,
+      "note": "Cómo tomar whisky — práctico"
+    },
+    {
+      "title": "The World Atlas of Whisky",
+      "author": "Dave Broom",
+      "year": 2014,
+      "note": "Mapeo geográfico de regiones y destilerías"
+    },
+    {
+      "title": "Scotch: A Liquid History",
+      "author": "Charles MacLean",
+      "year": 2003,
+      "note": "Historia social del whisky escocés"
+    }
+  ],
+  "correr": [
+    {
+      "title": "Born to Run",
+      "author": "Christopher McDougall",
+      "year": 2009,
+      "note": "Clásico inspiracional para correr"
+    },
+    {
+      "title": "Eat & Run",
+      "author": "Scott Jurek",
+      "year": 2012,
+      "note": "Ultrarunner sobre nutrición + endurance"
+    },
+    {
+      "title": "Endure",
+      "author": "Alex Hutchinson",
+      "year": 2018,
+      "note": "Por qué duele y cuándo parar — ciencia del esfuerzo"
+    }
+  ],
+  "ortodoncia": [
+    {
+      "title": "Surgeons' Hall: A Hidden History",
+      "author": "Iain Macintyre",
+      "year": 2018,
+      "note": "Edinburgh Medical School + Surgeons' Hall"
+    },
+    {
+      "title": "The Knife Man: Blood, Body Snatching, and the Birth of Modern Surgery",
+      "author": "Wendy Moore",
+      "year": 2005,
+      "note": "John Hunter y la cirugía británica de finales del s. XVIII"
+    }
+  ],
+  "general": [
+    {
+      "title": "Trainspotting",
+      "author": "Irvine Welsh",
+      "year": 1993,
+      "note": "Edimburgo callejera de los 90"
+    },
+    {
+      "title": "44 Scotland Street",
+      "author": "Alexander McCall Smith",
+      "year": 2005,
+      "note": "New Town contemporánea, cariñoso retrato"
+    },
+    {
+      "title": "Kidnapped",
+      "author": "Robert Louis Stevenson",
+      "year": 1886,
+      "note": "Edimburgo del s. XVIII desde New Town"
+    }
+  ]
+}

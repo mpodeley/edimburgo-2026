@@ -1,0 +1,548 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Premier Inn Princes Street",
+        "category": "alojamiento",
+        "day": ["jue-21", "vie-22", "sáb-23", "dom-24"],
+        "description_short": "Hotel base en Edimburgo (4 noches)",
+        "url_official": "https://www.premierinn.com/gb/en/hotels/scotland/lothian/edinburgh/edinburgh-city-centre-princes-street.html"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1903, 55.9540] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Space to Stay Aparthotel (St Andrews)",
+        "category": "alojamiento",
+        "day": ["lun-25", "mar-26"],
+        "description_short": "Aparthotel en St Andrews (2 noches)"
+      },
+      "geometry": { "type": "Point", "coordinates": [-2.7950, 56.3400] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edinburgh Castle",
+        "category": "museo",
+        "day": ["vie-22"],
+        "description_short": "Castillo, Stone of Destiny, Honours of Scotland",
+        "url_detail": "dia-02-viernes-old-town.html",
+        "duration_min": 150,
+        "cost_gbp": 21,
+        "url_official": "https://www.edinburghcastle.scot/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1999, 55.9486] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royal Yacht Britannia",
+        "category": "museo",
+        "day": ["sáb-23"],
+        "description_short": "El yate real de la Reina en Ocean Terminal, Leith",
+        "url_detail": "dia-03-sabado-britannia.html",
+        "duration_min": 150,
+        "cost_gbp": 22,
+        "url_official": "https://www.royalyachtbritannia.co.uk/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1758, 55.9817] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "National Museum of Scotland",
+        "category": "ciencia",
+        "day": ["sáb-23"],
+        "description_short": "Museo nacional — Dolly the Sheep, ciencia, historia",
+        "url_detail": "track-ciencia-ia.html",
+        "duration_min": 180,
+        "cost_gbp": 0,
+        "url_official": "https://www.nms.ac.uk/national-museum-of-scotland/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1898, 55.9468] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surgeons' Hall Museums",
+        "category": "ciencia",
+        "day": ["sáb-23"],
+        "description_short": "Colección dental + anatómica histórica — para Daniela",
+        "url_detail": "track-ortodoncia.html",
+        "duration_min": 90,
+        "cost_gbp": 10,
+        "url_official": "https://museum.rcsed.ac.uk/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1856, 55.9474] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosslyn Chapel",
+        "category": "esoterico",
+        "day": ["lun-25"],
+        "description_short": "Capilla del s. XV con tallas templarias, escenario del Código Da Vinci",
+        "url_detail": "track-esoterico.html",
+        "duration_min": 120,
+        "cost_gbp": 11,
+        "url_official": "https://www.rosslynchapel.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1597, 55.8553] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Freemasons' Hall",
+        "category": "esoterico",
+        "day": ["vie-22"],
+        "description_short": "Sede de la Grand Lodge of Scotland (1736). Tours según horario",
+        "url_detail": "track-esoterico.html",
+        "duration_min": 60,
+        "cost_gbp": 0,
+        "url_official": "https://grandlodgescotland.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1947, 55.9531] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Witches' Well",
+        "category": "esoterico",
+        "day": ["vie-22"],
+        "description_short": "Memorial a las mujeres quemadas por brujería en Castle Hill",
+        "url_detail": "track-esoterico.html",
+        "duration_min": 10,
+        "cost_gbp": 0
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1989, 55.9489] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greyfriars Kirkyard",
+        "category": "esoterico",
+        "day": ["vie-22"],
+        "description_short": "Cementerio histórico — Bobby, Burke & Hare, tumbas masónicas",
+        "url_detail": "track-esoterico.html",
+        "duration_min": 45,
+        "cost_gbp": 0
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1907, 55.9469] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Real Mary King's Close",
+        "category": "museo",
+        "day": ["vie-22"],
+        "description_short": "Subterráneo de la peste de 1645 — reservar online",
+        "url_detail": "dia-02-viernes-old-town.html",
+        "duration_min": 75,
+        "cost_gbp": 25,
+        "url_official": "https://www.realmarykingsclose.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1899, 55.9498] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camera Obscura & World of Illusions",
+        "category": "ciencia",
+        "day": ["vie-22"],
+        "description_short": "Óptica Victoriana + ilusiones, divertido y científico",
+        "url_detail": "track-ciencia-ia.html",
+        "duration_min": 90,
+        "cost_gbp": 22,
+        "url_official": "https://www.camera-obscura.co.uk/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1982, 55.9489] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holyrood Distillery",
+        "category": "comida",
+        "day": ["lun-25"],
+        "description_short": "Destilería de whisky en plena Edimburgo (tour + cata)",
+        "url_detail": "track-pubs-whisky.html",
+        "duration_min": 90,
+        "cost_gbp": 20,
+        "url_official": "https://www.holyrooddistillery.co.uk/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1779, 55.9509] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scotch Whisky Experience",
+        "category": "comida",
+        "day": ["vie-22"],
+        "description_short": "Museo del whisky + cata en Royal Mile",
+        "url_detail": "track-pubs-whisky.html",
+        "duration_min": 90,
+        "cost_gbp": 23,
+        "url_official": "https://www.scotchwhiskyexperience.co.uk/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1985, 55.9489] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calton Hill",
+        "category": "romantico",
+        "day": ["jue-21", "sáb-23"],
+        "description_short": "Colina con monumentos griegos y vista 360 — atardecer romántico",
+        "url_detail": "track-romantico.html",
+        "duration_min": 60,
+        "cost_gbp": 0
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1828, 55.9550] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dean Village",
+        "category": "romantico",
+        "day": ["sáb-23"],
+        "description_short": "Pueblo medieval dentro de la ciudad, paseo por el Water of Leith",
+        "url_detail": "track-romantico.html",
+        "duration_min": 45,
+        "cost_gbp": 0
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.2150, 55.9528] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scott Monument",
+        "category": "museo",
+        "day": ["jue-21"],
+        "description_short": "Torre gótica victoriana — vistas de Princes Street",
+        "url_detail": "dia-01-jueves-llegada.html",
+        "duration_min": 45,
+        "cost_gbp": 8,
+        "url_official": "https://www.edinburghmuseums.org.uk/venue/scott-monument"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1924, 55.9525] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edinburgh Marathon — Largada (Regent Road)",
+        "category": "correr",
+        "day": ["dom-24"],
+        "description_short": "Línea de salida del Edinburgh Marathon Festival",
+        "url_detail": "dia-04-domingo-maraton.html",
+        "url_official": "https://edinburghmarathon.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1820, 55.9536] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edinburgh Marathon — Llegada (Pinkie Playing Fields)",
+        "category": "correr",
+        "day": ["dom-24"],
+        "description_short": "Línea de meta en Musselburgh",
+        "url_detail": "dia-04-domingo-maraton.html"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.0451, 55.9433] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Witchery by the Castle",
+        "category": "romantico",
+        "day": ["vie-22"],
+        "description_short": "Cena gótica junto al castillo — cena romántica #1",
+        "url_detail": "track-romantico.html",
+        "cost_gbp": 80,
+        "url_official": "https://www.thewitchery.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1976, 55.9489] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Seafood Ristorante (St Andrews)",
+        "category": "romantico",
+        "day": ["mar-26"],
+        "description_short": "Cena con ventanal al mar — cena romántica #2",
+        "url_detail": "track-romantico.html",
+        "cost_gbp": 70,
+        "url_official": "https://www.theseafoodristorante.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-2.8035, 56.3415] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Favorita (Leith Walk)",
+        "category": "comida",
+        "day": ["sáb-23"],
+        "description_short": "Italiano para carb-load pre-maratón",
+        "url_official": "https://la-favorita.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1773, 55.9628] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Café Royal Circle Bar",
+        "category": "pub",
+        "day": ["jue-21"],
+        "description_short": "Pub Victoriano clásico — ostras, ales, bocata",
+        "url_detail": "track-pubs-whisky.html",
+        "url_official": "https://www.caferoyaledinburgh.co.uk/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1903, 55.9544] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Guildford Arms",
+        "category": "pub",
+        "day": ["jue-21"],
+        "description_short": "Pub Victoriano con techos altísimos y cask ales",
+        "url_detail": "track-pubs-whisky.html",
+        "url_official": "https://www.guildfordarms.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1908, 55.9543] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The World's End",
+        "category": "pub",
+        "day": ["vie-22"],
+        "description_short": "En Royal Mile — antigua frontera del Flodden Wall",
+        "url_detail": "track-pubs-whisky.html"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1843, 55.9504] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bow Bar",
+        "category": "pub",
+        "day": ["jue-21", "vie-22"],
+        "description_short": "Whisky bar clásico (~400 whiskies), ambiente honesto",
+        "url_detail": "track-pubs-whisky.html"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1944, 55.9482] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandy Bell's",
+        "category": "pub",
+        "day": ["vie-22"],
+        "description_short": "Folk en vivo todas las noches — mítico",
+        "url_detail": "track-pubs-whisky.html"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1900, 55.9466] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Sheep Heid Inn (Duddingston)",
+        "category": "pub",
+        "day": ["sáb-23"],
+        "description_short": "El pub más antiguo de Escocia (1360 dicen). Vale el desvío",
+        "url_detail": "track-pubs-whisky.html",
+        "url_official": "https://thesheepheidedinburgh.co.uk/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1493, 55.9352] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oink (Victoria Street)",
+        "category": "comida",
+        "day": ["vie-22", "lun-25"],
+        "description_short": "Sandwich de hog roast escocés — street food top",
+        "url_official": "https://www.oinkhogroast.co.uk/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1937, 55.9485] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oink (Royal Mile / Canongate)",
+        "category": "comida",
+        "day": ["vie-22"],
+        "description_short": "Otra sucursal del hog roast",
+        "url_official": "https://www.oinkhogroast.co.uk/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1858, 55.9504] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strathtyrum Course (St Andrews Links)",
+        "category": "golf",
+        "day": ["mar-26"],
+        "description_short": "Tee time ~10:50 — uno de los 7 courses de St Andrews Links",
+        "url_detail": "dia-06-martes-golf.html",
+        "cost_gbp": 55,
+        "url_official": "https://www.standrews.com/play/courses/strathtyrum-course"
+      },
+      "geometry": { "type": "Point", "coordinates": [-2.8232, 56.3457] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St Andrews Links Clubhouse",
+        "category": "golf",
+        "day": ["mar-26"],
+        "description_short": "Pro shop + check-in para el tee time",
+        "url_official": "https://www.standrews.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-2.8047, 56.3437] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Sands Beach (Chariots of Fire)",
+        "category": "correr",
+        "day": ["lun-25", "mar-26"],
+        "description_short": "Playa de 3km plana — escena de Carros de Fuego",
+        "url_detail": "track-correr.html"
+      },
+      "geometry": { "type": "Point", "coordinates": [-2.8090, 56.3490] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St Andrews Cathedral & St Rule's Tower",
+        "category": "museo",
+        "day": ["mar-26"],
+        "description_short": "Ruinas de la catedral más grande de Escocia + torre del s. XII",
+        "duration_min": 90,
+        "cost_gbp": 9,
+        "url_official": "https://www.historicenvironment.scot/visit-a-place/places/st-andrews-cathedral/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-2.7889, 56.3401] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St Andrews Castle",
+        "category": "museo",
+        "day": ["mar-26"],
+        "description_short": "Castillo con bottle dungeon + mine/counter-mine (s. XVI)",
+        "duration_min": 60,
+        "cost_gbp": 9,
+        "url_official": "https://www.historicenvironment.scot/visit-a-place/places/st-andrews-castle/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-2.7919, 56.3413] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kingsbarns Distillery",
+        "category": "comida",
+        "day": ["lun-25", "mar-26"],
+        "description_short": "Single malt joven con vista al mar, 10 km de St Andrews",
+        "url_detail": "track-pubs-whisky.html",
+        "duration_min": 90,
+        "cost_gbp": 15,
+        "url_official": "https://www.kingsbarnsdistillery.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-2.6614, 56.2986] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eden Mill (Guardbridge)",
+        "category": "comida",
+        "day": ["lun-25"],
+        "description_short": "Gin + whisky, cerca del campus St Andrews",
+        "url_official": "https://www.edenmill.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-2.8975, 56.3614] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royal Observatory Edinburgh",
+        "category": "ciencia",
+        "day": [],
+        "description_short": "Visitor centre en Blackford Hill (opcional)",
+        "url_detail": "track-ciencia-ia.html",
+        "url_official": "https://www.roe.ac.uk/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1881, 55.9233] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayes Centre (UoE Informatics)",
+        "category": "ciencia",
+        "day": [],
+        "description_short": "Edificio AI moderno de la Universidad de Edimburgo",
+        "url_detail": "track-ciencia-ia.html",
+        "url_official": "https://www.ed.ac.uk/bayes"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1875, 55.9446] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old College, University of Edinburgh",
+        "category": "ciencia",
+        "day": [],
+        "description_short": "Edinburgh Medical School — históricamente la más prestigiosa del UK",
+        "url_detail": "track-ortodoncia.html"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1872, 55.9474] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dynamic Earth",
+        "category": "ciencia",
+        "day": [],
+        "description_short": "Centro de ciencia geológica junto al Parlamento",
+        "url_detail": "track-ciencia-ia.html",
+        "cost_gbp": 19,
+        "url_official": "https://www.dynamicearth.org.uk/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1731, 55.9521] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arthur's Seat",
+        "category": "correr",
+        "day": [],
+        "description_short": "Volcán extinto en el centro — loop running 5.5km, +250m",
+        "url_detail": "track-correr.html"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1622, 55.9444] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tranvía aeropuerto — St Andrew Square",
+        "category": "transporte",
+        "day": ["jue-21"],
+        "description_short": "Tranvía del aeropuerto al centro (~30 min, £7.50)"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1925, 55.9544] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edinburgh Waverley Station",
+        "category": "transporte",
+        "day": ["lun-25", "mié-27"],
+        "description_short": "Estación de tren — salida a Leuchars (St Andrews)"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.1894, 55.9523] }
+    }
+  ]
+}

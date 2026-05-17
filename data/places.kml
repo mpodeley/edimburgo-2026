@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Edimburgo 2026 — Itinerario</name>
+<description>Paradas para Matías y Daniela, 20-27 mayo 2026. https://edimbra.podeley.ar</description>
+<Style id="esoterico">
+  <IconStyle>
+    <color>ff734347</color>
+    <Icon>
+      <href>https://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="pub">
+  <IconStyle>
+    <color>ff2a8cb7</color>
+    <Icon>
+      <href>https://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="museo">
+  <IconStyle>
+    <color>ff1d1d6b</color>
+    <Icon>
+      <href>https://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="ciencia">
+  <IconStyle>
+    <color>ff1d1d6b</color>
+    <Icon>
+      <href>https://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="comida">
+  <IconStyle>
+    <color>ff3d6a2e</color>
+    <Icon>
+      <href>https://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="romantico">
+  <IconStyle>
+    <color>ff874ab5</color>
+    <Icon>
+      <href>https://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="transporte">
+  <IconStyle>
+    <color>ff7f7f7f</color>
+    <Icon>
+      <href>https://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="golf">
+  <IconStyle>
+    <color>ff8c6b2a</color>
+    <Icon>
+      <href>https://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="correr">
+  <IconStyle>
+    <color>ff0a66c2</color>
+    <Icon>
+      <href>https://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="alojamiento">
+  <IconStyle>
+    <color>ff16181b</color>
+    <Icon>
+      <href>https://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Folder>
+  <name>alojamiento</name>
+  <Placemark>
+    <name>Premier Inn Princes Street</name>
+    <description><![CDATA[Hotel base en Edimburgo (4 noches)
+
+Días: jue-21, vie-22, sáb-23, dom-24
+Oficial: https://www.premierinn.com/gb/en/hotels/scotland/lothian/edinburgh/edinburgh-city-centre-princes-street.html]]></description>
+    <styleUrl>#alojamiento</styleUrl>
+    <Point>
+      <coordinates>-3.1903,55.954,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Space to Stay Aparthotel (St Andrews)</name>
+    <description><![CDATA[Aparthotel en St Andrews (2 noches)
+
+Días: lun-25, mar-26]]></description>
+    <styleUrl>#alojamiento</styleUrl>
+    <Point>
+      <coordinates>-2.795,56.34,0</coordinates>
+    </Point>
+  </Placemark>
+</Folder>
+<Folder>
+  <name>ciencia</name>
+  <Placemark>
+    <name>National Museum of Scotland</name>
+    <description><![CDATA[Museo nacional — Dolly the Sheep, ciencia, historia
+
+Días: sáb-23 · 180 min · £0
+Oficial: https://www.nms.ac.uk/national-museum-of-scotland/]]></description>
+    <styleUrl>#ciencia</styleUrl>
+    <Point>
+      <coordinates>-3.1898,55.9468,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Surgeons' Hall Museums</name>
+    <description><![CDATA[Colección dental + anatómica histórica — para Daniela
+
+Días: sáb-23 · 90 min · £10
+Oficial: https://museum.rcsed.ac.uk/]]></description>
+    <styleUrl>#ciencia</styleUrl>
+    <Point>
+      <coordinates>-3.1856,55.9474,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Camera Obscura &amp; World of Illusions</name>
+    <description><![CDATA[Óptica Victoriana + ilusiones, divertido y científico
+
+Días: vie-22 · 90 min · £22
+Oficial: https://www.camera-obscura.co.uk/]]></description>
+    <styleUrl>#ciencia</styleUrl>
+    <Point>
+      <coordinates>-3.1982,55.9489,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Royal Observatory Edinburgh</name>
+    <description><![CDATA[Visitor centre en Blackford Hill (opcional)
+
+Días: 
+Oficial: https://www.roe.ac.uk/]]></description>
+    <styleUrl>#ciencia</styleUrl>
+    <Point>
+      <coordinates>-3.1881,55.9233,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bayes Centre (UoE Informatics)</name>
+    <description><![CDATA[Edificio AI moderno de la Universidad de Edimburgo
+
+Días: 
+Oficial: https://www.ed.ac.uk/bayes]]></description>
+    <styleUrl>#ciencia</styleUrl>
+    <Point>
+      <coordinates>-3.1875,55.9446,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Old College, University of Edinburgh</name>
+    <description><![CDATA[Edinburgh Medical School — históricamente la más prestigiosa del UK
+
+Días: ]]></description>
+    <styleUrl>#ciencia</styleUrl>
+    <Point>
+      <coordinates>-3.1872,55.9474,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dynamic Earth</name>
+    <description><![CDATA[Centro de ciencia geológica junto al Parlamento
+
+Días:  · £19
+Oficial: https://www.dynamicearth.org.uk/]]></description>
+    <styleUrl>#ciencia</styleUrl>
+    <Point>
+      <coordinates>-3.1731,55.9521,0</coordinates>
+    </Point>
+  </Placemark>
+</Folder>
+<Folder>
+  <name>comida</name>
+  <Placemark>
+    <name>Holyrood Distillery</name>
+    <description><![CDATA[Destilería de whisky en plena Edimburgo (tour + cata)
+
+Días: lun-25 · 90 min · £20
+Oficial: https://www.holyrooddistillery.co.uk/]]></description>
+    <styleUrl>#comida</styleUrl>
+    <Point>
+      <coordinates>-3.1779,55.9509,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Scotch Whisky Experience</name>
+    <description><![CDATA[Museo del whisky + cata en Royal Mile
+
+Días: vie-22 · 90 min · £23
+Oficial: https://www.scotchwhiskyexperience.co.uk/]]></description>
+    <styleUrl>#comida</styleUrl>
+    <Point>
+      <coordinates>-3.1985,55.9489,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>La Favorita (Leith Walk)</name>
+    <description><![CDATA[Italiano para carb-load pre-maratón
+
+Días: sáb-23
+Oficial: https://la-favorita.com/]]></description>
+    <styleUrl>#comida</styleUrl>
+    <Point>
+      <coordinates>-3.1773,55.9628,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oink (Victoria Street)</name>
+    <description><![CDATA[Sandwich de hog roast escocés — street food top
+
+Días: vie-22, lun-25
+Oficial: https://www.oinkhogroast.co.uk/]]></description>
+    <styleUrl>#comida</styleUrl>
+    <Point>
+      <coordinates>-3.1937,55.9485,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oink (Royal Mile / Canongate)</name>
+    <description><![CDATA[Otra sucursal del hog roast
+
+Días: vie-22
+Oficial: https://www.oinkhogroast.co.uk/]]></description>
+    <styleUrl>#comida</styleUrl>
+    <Point>
+      <coordinates>-3.1858,55.9504,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kingsbarns Distillery</name>
+    <description><![CDATA[Single malt joven con vista al mar, 10 km de St Andrews
+
+Días: lun-25, mar-26 · 90 min · £15
+Oficial: https://www.kingsbarnsdistillery.com/]]></description>
+    <styleUrl>#comida</styleUrl>
+    <Point>
+      <coordinates>-2.6614,56.2986,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Eden Mill (Guardbridge)</name>
+    <description><![CDATA[Gin + whisky, cerca del campus St Andrews
+
+Días: lun-25
+Oficial: https://www.edenmill.com/]]></description>
+    <styleUrl>#comida</styleUrl>
+    <Point>
+      <coordinates>-2.8975,56.3614,0</coordinates>
+    </Point>
+  </Placemark>
+</Folder>
+<Folder>
+  <name>correr</name>
+  <Placemark>
+    <name>Edinburgh Marathon — Largada (Regent Road)</name>
+    <description><![CDATA[Línea de salida del Edinburgh Marathon Festival
+
+Días: dom-24
+Oficial: https://edinburghmarathon.com/]]></description>
+    <styleUrl>#correr</styleUrl>
+    <Point>
+      <coordinates>-3.182,55.9536,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Edinburgh Marathon — Llegada (Pinkie Playing Fields)</name>
+    <description><![CDATA[Línea de meta en Musselburgh
+
+Días: dom-24]]></description>
+    <styleUrl>#correr</styleUrl>
+    <Point>
+      <coordinates>-3.0451,55.9433,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>West Sands Beach (Chariots of Fire)</name>
+    <description><![CDATA[Playa de 3km plana — escena de Carros de Fuego
+
+Días: lun-25, mar-26]]></description>
+    <styleUrl>#correr</styleUrl>
+    <Point>
+      <coordinates>-2.809,56.349,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Arthur's Seat</name>
+    <description><![CDATA[Volcán extinto en el centro — loop running 5.5km, +250m
+
+Días: ]]></description>
+    <styleUrl>#correr</styleUrl>
+    <Point>
+      <coordinates>-3.1622,55.9444,0</coordinates>
+    </Point>
+  </Placemark>
+</Folder>
+<Folder>
+  <name>esoterico</name>
+  <Placemark>
+    <name>Rosslyn Chapel</name>
+    <description><![CDATA[Capilla del s. XV con tallas templarias, escenario del Código Da Vinci
+
+Días: lun-25 · 120 min · £11
+Oficial: https://www.rosslynchapel.com/]]></description>
+    <styleUrl>#esoterico</styleUrl>
+    <Point>
+      <coordinates>-3.1597,55.8553,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Freemasons' Hall</name>
+    <description><![CDATA[Sede de la Grand Lodge of Scotland (1736). Tours según horario
+
+Días: vie-22 · 60 min · £0
+Oficial: https://grandlodgescotland.com/]]></description>
+    <styleUrl>#esoterico</styleUrl>
+    <Point>
+      <coordinates>-3.1947,55.9531,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Witches' Well</name>
+    <description><![CDATA[Memorial a las mujeres quemadas por brujería en Castle Hill
+
+Días: vie-22 · 10 min · £0]]></description>
+    <styleUrl>#esoterico</styleUrl>
+    <Point>
+      <coordinates>-3.1989,55.9489,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Greyfriars Kirkyard</name>
+    <description><![CDATA[Cementerio histórico — Bobby, Burke & Hare, tumbas masónicas
+
+Días: vie-22 · 45 min · £0]]></description>
+    <styleUrl>#esoterico</styleUrl>
+    <Point>
+      <coordinates>-3.1907,55.9469,0</coordinates>
+    </Point>
+  </Placemark>
+</Folder>
+<Folder>
+  <name>golf</name>
+  <Placemark>
+    <name>Strathtyrum Course (St Andrews Links)</name>
+    <description><![CDATA[Tee time ~10:50 — uno de los 7 courses de St Andrews Links
+
+Días: mar-26 · £55
+Oficial: https://www.standrews.com/play/courses/strathtyrum-course]]></description>
+    <styleUrl>#golf</styleUrl>
+    <Point>
+      <coordinates>-2.8232,56.3457,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>St Andrews Links Clubhouse</name>
+    <description><![CDATA[Pro shop + check-in para el tee time
+
+Días: mar-26
+Oficial: https://www.standrews.com/]]></description>
+    <styleUrl>#golf</styleUrl>
+    <Point>
+      <coordinates>-2.8047,56.3437,0</coordinates>
+    </Point>
+  </Placemark>
+</Folder>
+<Folder>
+  <name>museo</name>
+  <Placemark>
+    <name>Edinburgh Castle</name>
+    <description><![CDATA[Castillo, Stone of Destiny, Honours of Scotland
+
+Días: vie-22 · 150 min · £21
+Oficial: https://www.edinburghcastle.scot/]]></description>
+    <styleUrl>#museo</styleUrl>
+    <Point>
+      <coordinates>-3.1999,55.9486,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Royal Yacht Britannia</name>
+    <description><![CDATA[El yate real de la Reina en Ocean Terminal, Leith
+
+Días: sáb-23 · 150 min · £22
+Oficial: https://www.royalyachtbritannia.co.uk/]]></description>
+    <styleUrl>#museo</styleUrl>
+    <Point>
+      <coordinates>-3.1758,55.9817,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Real Mary King's Close</name>
+    <description><![CDATA[Subterráneo de la peste de 1645 — reservar online
+
+Días: vie-22 · 75 min · £25
+Oficial: https://www.realmarykingsclose.com/]]></description>
+    <styleUrl>#museo</styleUrl>
+    <Point>
+      <coordinates>-3.1899,55.9498,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Scott Monument</name>
+    <description><![CDATA[Torre gótica victoriana — vistas de Princes Street
+
+Días: jue-21 · 45 min · £8
+Oficial: https://www.edinburghmuseums.org.uk/venue/scott-monument]]></description>
+    <styleUrl>#museo</styleUrl>
+    <Point>
+      <coordinates>-3.1924,55.9525,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>St Andrews Cathedral &amp; St Rule's Tower</name>
+    <description><![CDATA[Ruinas de la catedral más grande de Escocia + torre del s. XII
+
+Días: mar-26 · 90 min · £9
+Oficial: https://www.historicenvironment.scot/visit-a-place/places/st-andrews-cathedral/]]></description>
+    <styleUrl>#museo</styleUrl>
+    <Point>
+      <coordinates>-2.7889,56.3401,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>St Andrews Castle</name>
+    <description><![CDATA[Castillo con bottle dungeon + mine/counter-mine (s. XVI)
+
+Días: mar-26 · 60 min · £9
+Oficial: https://www.historicenvironment.scot/visit-a-place/places/st-andrews-castle/]]></description>
+    <styleUrl>#museo</styleUrl>
+    <Point>
+      <coordinates>-2.7919,56.3413,0</coordinates>
+    </Point>
+  </Placemark>
+</Folder>
+<Folder>
+  <name>pub</name>
+  <Placemark>
+    <name>Café Royal Circle Bar</name>
+    <description><![CDATA[Pub Victoriano clásico — ostras, ales, bocata
+
+Días: jue-21
+Oficial: https://www.caferoyaledinburgh.co.uk/]]></description>
+    <styleUrl>#pub</styleUrl>
+    <Point>
+      <coordinates>-3.1903,55.9544,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Guildford Arms</name>
+    <description><![CDATA[Pub Victoriano con techos altísimos y cask ales
+
+Días: jue-21
+Oficial: https://www.guildfordarms.com/]]></description>
+    <styleUrl>#pub</styleUrl>
+    <Point>
+      <coordinates>-3.1908,55.9543,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The World's End</name>
+    <description><![CDATA[En Royal Mile — antigua frontera del Flodden Wall
+
+Días: vie-22]]></description>
+    <styleUrl>#pub</styleUrl>
+    <Point>
+      <coordinates>-3.1843,55.9504,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bow Bar</name>
+    <description><![CDATA[Whisky bar clásico (~400 whiskies), ambiente honesto
+
+Días: jue-21, vie-22]]></description>
+    <styleUrl>#pub</styleUrl>
+    <Point>
+      <coordinates>-3.1944,55.9482,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sandy Bell's</name>
+    <description><![CDATA[Folk en vivo todas las noches — mítico
+
+Días: vie-22]]></description>
+    <styleUrl>#pub</styleUrl>
+    <Point>
+      <coordinates>-3.19,55.9466,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Sheep Heid Inn (Duddingston)</name>
+    <description><![CDATA[El pub más antiguo de Escocia (1360 dicen). Vale el desvío
+
+Días: sáb-23
+Oficial: https://thesheepheidedinburgh.co.uk/]]></description>
+    <styleUrl>#pub</styleUrl>
+    <Point>
+      <coordinates>-3.1493,55.9352,0</coordinates>
+    </Point>
+  </Placemark>
+</Folder>
+<Folder>
+  <name>romantico</name>
+  <Placemark>
+    <name>Calton Hill</name>
+    <description><![CDATA[Colina con monumentos griegos y vista 360 — atardecer romántico
+
+Días: jue-21, sáb-23 · 60 min · £0]]></description>
+    <styleUrl>#romantico</styleUrl>
+    <Point>
+      <coordinates>-3.1828,55.955,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dean Village</name>
+    <description><![CDATA[Pueblo medieval dentro de la ciudad, paseo por el Water of Leith
+
+Días: sáb-23 · 45 min · £0]]></description>
+    <styleUrl>#romantico</styleUrl>
+    <Point>
+      <coordinates>-3.215,55.9528,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Witchery by the Castle</name>
+    <description><![CDATA[Cena gótica junto al castillo — cena romántica #1
+
+Días: vie-22 · £80
+Oficial: https://www.thewitchery.com/]]></description>
+    <styleUrl>#romantico</styleUrl>
+    <Point>
+      <coordinates>-3.1976,55.9489,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Seafood Ristorante (St Andrews)</name>
+    <description><![CDATA[Cena con ventanal al mar — cena romántica #2
+
+Días: mar-26 · £70
+Oficial: https://www.theseafoodristorante.com/]]></description>
+    <styleUrl>#romantico</styleUrl>
+    <Point>
+      <coordinates>-2.8035,56.3415,0</coordinates>
+    </Point>
+  </Placemark>
+</Folder>
+<Folder>
+  <name>transporte</name>
+  <Placemark>
+    <name>Tranvía aeropuerto — St Andrew Square</name>
+    <description><![CDATA[Tranvía del aeropuerto al centro (~30 min, £7.50)
+
+Días: jue-21]]></description>
+    <styleUrl>#transporte</styleUrl>
+    <Point>
+      <coordinates>-3.1925,55.9544,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Edinburgh Waverley Station</name>
+    <description><![CDATA[Estación de tren — salida a Leuchars (St Andrews)
+
+Días: lun-25, mié-27]]></description>
+    <styleUrl>#transporte</styleUrl>
+    <Point>
+      <coordinates>-3.1894,55.9523,0</coordinates>
+    </Point>
+  </Placemark>
+</Folder>
+</Document>
+</kml>

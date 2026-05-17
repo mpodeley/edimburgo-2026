@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#6b1d1d">
+  <title>$if(title)$$title$ · $endif$Edimburgo 2026</title>
+  $if(description)$<meta name="description" content="$description$">$endif$
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+  $if(needs-map)$
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="anonymous">
+  $endif$
+</head>
+<body>
+<header class="site">
+  <div class="wrap">
+    <a class="brand" href="index.html">Edimburgo 2026</a>
+    <nav class="site">
+      <button id="menu-btn" aria-label="Menú" aria-expanded="false">Menú ☰</button>
+      <div class="menu" id="menu">
+        <div class="group">Días</div>
+        <a href="dia-01-jueves-llegada.html">Jue 21 · Llegada</a>
+        <a href="dia-02-viernes-old-town.html">Vie 22 · Old Town</a>
+        <a href="dia-03-sabado-britannia.html">Sáb 23 · Britannia</a>
+        <a href="dia-04-domingo-maraton.html">Dom 24 · Maratón</a>
+        <a href="dia-05-lunes-rosslyn-st-andrews.html">Lun 25 · Rosslyn → St Andrews</a>
+        <a href="dia-06-martes-golf.html">Mar 26 · Golf</a>
+        <a href="dia-07-miercoles-vuelta.html">Mié 27 · Vuelta</a>
+        <div class="group">Tracks</div>
+        <a href="track-esoterico.html">Esotérico</a>
+        <a href="track-ciencia-ia.html">Ciencia &amp; IA</a>
+        <a href="track-pubs-whisky.html">Pubs &amp; Whisky</a>
+        <a href="track-correr.html">Para Daniela (correr)</a>
+        <a href="track-ortodoncia.html">Para Daniela (ortodoncia)</a>
+        <a href="track-romantico.html">Romántico</a>
+        <div class="group">Recursos</div>
+        <a href="ebook/edimburgo-2026.epub" download>📘 Descargar ePub</a>
+        <a href="index.html#mapa">🗺️ Mapa general</a>
+      </div>
+    </nav>
+  </div>
+</header>
+<main>
+$body$
+</main>
+<footer class="site">
+  Edimburgo · 20-27 Mayo 2026 · Matías &amp; Daniela<br>
+  Construido con cariño en pandoc + leaflet. <a href="https://github.com/$gh-user$/edimburgo-2026">Source en GitHub</a>.
+</footer>
+<script>
+  document.getElementById('menu-btn').addEventListener('click', function() {
+    var menu = document.getElementById('menu');
+    var open = menu.classList.toggle('open');
+    this.setAttribute('aria-expanded', open);
+  });
+</script>
+$if(needs-map)$
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin="anonymous"></script>
+<script src="assets/js/map.js"></script>
+$endif$
+</body>
+</html>

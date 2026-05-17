@@ -1,0 +1,83 @@
+{
+  "jue-21": {
+    "label": "Jueves 21 — Llegada",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=55.9482,-3.1944&destination=55.955,-3.1828&travelmode=walking&waypoints=55.9544,-3.1925|55.9525,-3.1924|55.9543,-3.1908|55.9544,-3.1903",
+    "stops": [
+      "Bow Bar",
+      "Tranvía aeropuerto — St Andrew Square",
+      "Scott Monument",
+      "The Guildford Arms",
+      "Café Royal Circle Bar",
+      "Calton Hill"
+    ],
+    "stops_count": 6
+  },
+  "vie-22": {
+    "label": "Viernes 22 — Old Town + esotérico",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=55.9486,-3.1999&destination=55.9466,-3.19&travelmode=walking&waypoints=55.9489,-3.1989|55.9489,-3.1985|55.9489,-3.1982|55.9489,-3.1976|55.9531,-3.1947|55.9482,-3.1944|55.9485,-3.1937|55.9469,-3.1907",
+    "stops": [
+      "Edinburgh Castle",
+      "Witches' Well",
+      "Scotch Whisky Experience",
+      "Camera Obscura & World of Illusions",
+      "Witchery by the Castle",
+      "Freemasons' Hall",
+      "Bow Bar",
+      "Oink (Victoria Street)",
+      "Greyfriars Kirkyard",
+      "Sandy Bell's"
+    ],
+    "stops_count": 10
+  },
+  "sáb-23": {
+    "label": "Sábado 23 — Britannia + carb-load",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=55.9528,-3.215&destination=55.9352,-3.1493&travelmode=walking&waypoints=55.9468,-3.1898|55.9474,-3.1856|55.955,-3.1828|55.9628,-3.1773|55.9817,-3.1758",
+    "stops": [
+      "Dean Village",
+      "National Museum of Scotland",
+      "Surgeons' Hall Museums",
+      "Calton Hill",
+      "La Favorita (Leith Walk)",
+      "Royal Yacht Britannia",
+      "The Sheep Heid Inn (Duddingston)"
+    ],
+    "stops_count": 7
+  },
+  "dom-24": {
+    "label": "Domingo 24 — Maratón",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=55.9536,-3.182&destination=55.9433,-3.0451&travelmode=walking",
+    "stops": [
+      "Edinburgh Marathon — Largada (Regent Road)",
+      "Edinburgh Marathon — Llegada (Pinkie Playing Fields)"
+    ],
+    "stops_count": 2
+  },
+  "lun-25": {
+    "label": "Lunes 25 — Rosslyn + St Andrews",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=55.9485,-3.1937&destination=56.2986,-2.6614&travelmode=walking&waypoints=55.9523,-3.1894|55.9509,-3.1779|55.8553,-3.1597|56.3614,-2.8975|56.349,-2.809",
+    "stops": [
+      "Oink (Victoria Street)",
+      "Edinburgh Waverley Station",
+      "Holyrood Distillery",
+      "Rosslyn Chapel",
+      "Eden Mill (Guardbridge)",
+      "West Sands Beach (Chariots of Fire)",
+      "Kingsbarns Distillery"
+    ],
+    "stops_count": 7
+  },
+  "mar-26": {
+    "label": "Martes 26 — Golf en Strathtyrum",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=56.3457,-2.8232&destination=56.2986,-2.6614&travelmode=walking&waypoints=56.349,-2.809|56.3437,-2.8047|56.3415,-2.8035|56.3413,-2.7919|56.3401,-2.7889",
+    "stops": [
+      "Strathtyrum Course (St Andrews Links)",
+      "West Sands Beach (Chariots of Fire)",
+      "St Andrews Links Clubhouse",
+      "The Seafood Ristorante (St Andrews)",
+      "St Andrews Castle",
+      "St Andrews Cathedral & St Rule's Tower",
+      "Kingsbarns Distillery"
+    ],
+    "stops_count": 7
+  }
+}
