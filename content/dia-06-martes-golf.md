@@ -15,50 +15,44 @@ description: Tee time 10:50 en Strathtyrum, catedral y castillo de St Andrews, c
 
 ## La premisa del día
 
-Matías juega 18 hoyos en **[Strathtyrum Course](https://www.standrews.com/play/courses/strathtyrum-course)** dentro del **St Andrews Links Trust** — el complejo de 7 campos de golf más histórico del mundo. Daniela aprovecha la mañana para correr **West Sands**, recorrer **St Andrews Cathedral ruins**, **St Andrews Castle** y los claustros de la **University of St Andrews**. Al mediodía-temprano se encuentran a comer juntos, tarde de catedral y museo de golf, y a la noche la **cena romántica #2** en el **Seafood Ristorante** con ventanal sobre el mar.
+**Daniela y Matías juegan juntos** 18 hoyos en **[Strathtyrum Course](https://www.standrews.com/play/courses/strathtyrum-course)** dentro del **St Andrews Links Trust** — el complejo de 7 campos de golf más histórico del mundo. Daniela es la más golfista de los dos. Tee time 10:50. Después de la vuelta: almuerzo tardío, recorrida juntos por **St Andrews Cathedral ruins**, **St Andrews Castle** y la **University of St Andrews**, y a la noche la **cena romántica #2** en el **Seafood Ristorante** con ventanal sobre el mar.
 
 ## Itinerario
 
 ::: {.timeline}
 ::: {.timeline-event}
-<span class="when">07:30</span> **Despertar**. Desayuno con calma. Matías hidrata + electrolitos suaves (golf son 4h al sol caminando con bolsa).
+<span class="when">07:30</span> **Despertar**. Desayuno con calma. Hidratar + electrolitos suaves (4h en el course al sol con bolsa son más exigentes de lo que parece).
 :::
 
 ::: {.timeline-event}
-<span class="when">09:15</span> **Matías sale para el [St Andrews Links Clubhouse](https://www.standrews.com/)** [golf]{.tag .golf}. Caminata de 10-15 min desde el aparthotel (verificar dirección exacta — está en la zona costera, al norte del centro). **Llegar 30-45 min antes del tee time** para check-in en pro shop, alquilar carro/clubs si no llevó propios, calentar putts.
+<span class="when">09:15</span> **Salida al [St Andrews Links Clubhouse](https://www.standrews.com/)** [golf]{.tag .golf}. Caminata de 10-15 min desde el aparthotel. **Llegar 30-45 min antes del tee time** para check-in en pro shop, alquiler de palos/carros si no llevaron, calentar putts en el green de práctica.
 :::
 
 ::: {.timeline-event}
-<span class="when">09:30</span> **Daniela: run en West Sands** [correr]{.tag .correr}. 30-45 min de running suave o caminata enérgica. Después café en algún café del centro (recomendado: **Mitchell's Deli**, South Street).
-:::
-
-::: {.timeline-event}
-<span class="when">10:50</span> **TEE TIME EN STRATHTYRUM**. Course de **18 hoyos, par 69, 5.620 yardas** (más corto que el Old Course pero mismo terreno). Linkland clásico: arena, vientos del Mar del Norte, fairways generosos para handicaps medios. £40-65 según temporada. Tiempo total estimado **4 horas**.
+<span class="when">10:50</span> **TEE TIME EN STRATHTYRUM — los dos** [golf]{.tag .golf}. Course de **18 hoyos, par 69, 5.620 yardas** (más corto que el Old Course pero mismo terreno). Linkland clásico: arena, vientos del Mar del Norte, fairways generosos para handicaps medios. £40-65 por persona según temporada. Tiempo total estimado **4 horas**.
 
   Cosas a saber:
 
-  - **Reglas locales**: están todos los detalles del links (bunkers profundos, viento, hard greens). Caddies opcionales.
+  - **Reglas locales**: están todos los detalles del links (bunkers profundos, viento, hard greens). Caddies opcionales (£60-80/round si quieren uno).
   - **Refrescos**: hay un buggy de bebidas en el course.
   - **Tradición**: meterse en el bunker es parte del rito. No se pasen al lado del *Hell Bunker* — eso es del Old Course, pero hay bunkers feos en Strathtyrum también.
   - **Photo op**: el Swilcan Bridge (foto clásica) está en el Old Course al lado, se puede pasar a sacar fotos antes o después.
+  - **Daniela manda el ritmo** — corre rápido pero juega más golf que Matías. Probablemente vaya a ir guiando la ronda.
 
   [Wikipedia sobre St Andrews Links](https://en.wikipedia.org/wiki/St_Andrews_Links) · [Video flyover del course](https://www.youtube.com/results?search_query=st+andrews+strathtyrum+course+flyover).
 :::
 
 ::: {.timeline-event}
-<span class="when">10:30</span> **Daniela: caminata por el centro de St Andrews** mientras Matías juega.
-
-  - **[St Andrews Cathedral ruins](https://www.historicenvironment.scot/visit-a-place/places/st-andrews-cathedral/)** + **St Rule's Tower** [museo]{.tag .museo}. £9 entrada (combo con castillo £15). La catedral fue la más grande de Escocia, consagrada en 1318 ante Robert the Bruce. Saqueada en la Reforma Protestante (1559) y abandonada. Quedan los restos del nave + transepto + claustros + dos torres. La **St Rule's Tower** (anterior, s. XII, románica) se sube — 33 m de escalera estrecha, vista 360° del pueblo. [Wikipedia](https://es.wikipedia.org/wiki/Catedral_de_San_Andr%C3%A9s).
-  - **[St Andrews Castle](https://www.historicenvironment.scot/visit-a-place/places/st-andrews-castle/)** [museo]{.tag .museo}. £9. Castillo del s. XIII, residencia de los obispos de St Andrews. Bajar a la **Bottle Dungeon** (mazmorra en forma de botella tallada en la roca: los prisioneros entraban por arriba y no salían vivos — abajo está el "fondo" donde dejaban los huesos). El **Mine & Counter-Mine** del asedio de 1546: la guerra de las trincheras subterráneas durante el sitio (los atacantes cavaron un túnel para meter pólvora bajo el muro; los defensores cavaron uno opuesto que se cruzó con el primero). Se puede caminar por adentro. Wikipedia: [castillo](https://es.wikipedia.org/wiki/Castillo_de_San_Andr%C3%A9s).
-  - **University of St Andrews** [<sup>3ra más antigua del UK</sup>](https://es.wikipedia.org/wiki/Universidad_de_San_Andr%C3%A9s_(Escocia)): fundada en 1413. Por acá pasaron desde John Knox hasta el Príncipe William y Kate Middleton (se conocieron acá). Caminar el **St Salvator's Quad**, el **Sallies Chapel** (capilla de 1450), y la **Lower & Upper Colleges**. Toques académicos: los estudiantes pasan por los pavimentos con iniciales **PH** en mosaico — se cree mala suerte pisarlas (se las llama "the haunted spots", marcan el lugar donde Patrick Hamilton fue quemado en 1528, primer mártir protestante escocés).
+<span class="when">~15:00-15:30</span> **Fin del round**. Vuelven al clubhouse, ducha rápida (hay vestuarios para visitantes), drink en el clubhouse bar mirando al Old Course. Almuerzo tardío en **The Adamson** (127 South Street): cocina bistrot moderna, ambiente lindo, ~£18 plato. [Sitio](https://theadamson.com/).
 :::
 
 ::: {.timeline-event}
-<span class="when">~15:00-15:30</span> **Matías termina golf**, vuelve al clubhouse, ducha rápida en el clubhouse (hay vestuarios para visitantes). Encuentro con Daniela en **The Adamson** (127 South Street) para almuerzo tardío. Cocina bistrot moderna, ambiente lindo, ~£18 plato. [Sitio](https://theadamson.com/).
-:::
+<span class="when">16:30</span> **Tour por las ruinas medievales y el centro** [museo]{.tag .museo}. Si quedan piernas:
 
-::: {.timeline-event}
-<span class="when">16:30</span> **R&A World Golf Museum** [museo]{.tag .museo} (Bruce Embankment, junto al Clubhouse — Matías ya conoce la zona). £10. La historia del juego: documentos del s. XVI, palos de madera antiguos, tarjetas de torneos The Open Championship, trofeo Claret Jug. **Para no-golfistas también vale**: muestra cómo el juego se fue de juego pastoral a deporte global. [Sitio](https://www.randa.org/heritage/world-golf-museum).
+  - **[St Andrews Cathedral ruins](https://www.historicenvironment.scot/visit-a-place/places/st-andrews-cathedral/)** + **St Rule's Tower**. £9 (combo castillo £15). Ruinas de la catedral más grande de Escocia, consagrada 1318. Saqueada en la Reforma Protestante (1559). La **St Rule's Tower** (s. XII) se sube, vista 360° del pueblo. [Wikipedia](https://es.wikipedia.org/wiki/Catedral_de_San_Andr%C3%A9s).
+  - **[St Andrews Castle](https://www.historicenvironment.scot/visit-a-place/places/st-andrews-castle/)**. £9. Bottle Dungeon + Mine/Counter-Mine del sitio de 1546.
+  - **University of St Andrews**: St Salvator's Quad, capilla de 1450. Los pavimentos PH (marcan donde quemaron a Patrick Hamilton en 1528) — los estudiantes los esquivan supersticiosamente.
+  - **R&A World Golf Museum** (alt) [museo]{.tag .museo}: si prefieren más golf, £10, junto al Clubhouse. [Sitio](https://www.randa.org/heritage/world-golf-museum).
 :::
 
 ::: {.timeline-event}
@@ -157,8 +151,8 @@ Café + brunch · mañana para Daniela.
 
 - **Reservas**: Seafood Ristorante (crítico — se llena).
 - **Costo aproximado**: Strathtyrum £55 + almuerzo £18 c/u + museo golf £10 + cena £80 c/u = **~£170 por persona**.
-- **Caminata Daniela**: ~6-8 km (West Sands + centro).
-- **Caminata Matías**: 6+ km en el course con bolsa.
+- **Caminata en el course**: 6+ km cada uno con bolsa o carrito.
+- **Caminata tarde**: 3-4 km adicionales recorriendo las ruinas y el centro.
 
 ## Próximas paradas
 

@@ -12,7 +12,7 @@ needs-map: true
 
 ## La idea
 
-Volamos a Edimburgo el miércoles 20 de mayo, llegamos el jueves 21, y nos volvemos el miércoles 27 a las 18:45. En el medio: la **Maratón de Edimburgo** el domingo 24, una **destilería**, el **Royal Yacht Britannia**, **Rosslyn Chapel** con sus tallas templarias, sándwiches de cerdo en **Oink**, dos cenas románticas (una gótica, una con vista al mar) y una vuelta de golf en **Strathtyrum** dentro del St Andrews Links el martes 26.
+Volamos a Edimburgo el miércoles 20 de mayo, llegamos el jueves 21, y nos volvemos el miércoles 27 a las 18:45. En el medio: la **Maratón de Edimburgo** el domingo 24 (la corremos los dos), una **destilería**, el **Royal Yacht Britannia**, **Rosslyn Chapel** con sus tallas templarias, sándwiches de cerdo en **Oink**, dos cenas románticas (una gótica, una con vista al mar) y una vuelta de golf juntos en **Strathtyrum** dentro del St Andrews Links el martes 26.
 
 Esta guía está pensada para abrir desde el celular mientras caminamos. Tiene mapa, tracks temáticos, material para leer sobre cada lugar y descarga directa en ePub para el avión o el subte.
 
